@@ -38,6 +38,8 @@ Features
 
 * TODO
 
+- `etommens Power Supplies`_
+
 
 Requirements
 ------------
@@ -98,3 +100,4 @@ This project was generated from `@cjolowicz`_'s `Hypermodern Python Cookiecutter
 .. github-only
 .. _Contributor Guide: CONTRIBUTING.rst
 .. _Usage: https://hanmatek-cli.readthedocs.io/en/latest/usage.html
+.. _vendor_etommens: http://www.etommens.com
