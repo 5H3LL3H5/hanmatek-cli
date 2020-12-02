@@ -97,7 +97,7 @@ This project was generated from `@cjolowicz`_'s `Hypermodern Python Cookiecutter
 .. _Hypermodern Python Cookiecutter: https://github.com/cjolowicz/cookiecutter-hypermodern-python
 .. _file an issue: https://github.com/5H3LL3H5/hanmatek-cli/issues
 .. _pip: https://pip.pypa.io/
+.. _etommens Power Supplies: http://www.etommens.com/
 .. github-only
 .. _Contributor Guide: CONTRIBUTING.rst
 .. _Usage: https://hanmatek-cli.readthedocs.io/en/latest/usage.html
-.. _etommens Power Supplies: http://www.etommens.com/
